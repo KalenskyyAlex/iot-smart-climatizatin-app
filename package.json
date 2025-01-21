@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mqtt": "^5.10.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/mqtt": "^0.0.34",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
