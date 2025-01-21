@@ -4,9 +4,9 @@ import TemperatureCell from './components/TemperatureCell';
 import Heatmap from './components/Heatmap';
 import type { TemperatureData } from './types';
 
-const API_URL = 'http://localhost:3001/api/heatmap'; 
-const AC_CONTROL_URL = 'http://localhost:3001/api/ac-control';
-const AC_TEMP_URL = 'http://localhost:3001/api/ac-temp';
+const API_URL = 'http://svra-ubuntu-server-0099.virtual.cloud.tuke.sk:3001/api/heatmap';
+const AC_CONTROL_URL = 'http://svra-ubuntu-server-0099.virtual.cloud.tuke.sk:3001/api/ac-control';
+const AC_TEMP_URL = 'http://svra-ubuntu-server-0099.virtual.cloud.tuke.sk:3001/api/ac-temp';
 
 const TEMPERATURE_THRESHOLD = 5;
 
